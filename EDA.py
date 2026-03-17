@@ -11,7 +11,7 @@ df = jm1.frame
 
 # 2. Basic Data Inspection
 print("\n--- First 5 Rows ---")
-print(df.head()) # Use print(df.head()) if not in a Jupyter environment
+print(df.head())
 
 print("\n--- Dataset Info ---")
 df.info()
